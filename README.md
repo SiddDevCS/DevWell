@@ -4,7 +4,7 @@
 
 DevWell is an iOS application designed to improve developer productivity and wellness by encouraging regular breaks and tracking mood throughout the workday.
 
-![DevWell App](https://github.com/SiddDevCS/DevWell/raw/main/Screenshots/dashboard.png)
+![appstore](https://github.com/user-attachments/assets/e569f028-0298-40da-a937-8858c173020a)
 
 ## Features
 
